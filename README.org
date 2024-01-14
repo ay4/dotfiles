@@ -3,3 +3,4 @@
 - *bin* - my python and non-python scripts (right now empty-ish)
 - *.config*
   - *fish* - the fish shell
+- *com.googlecode.iterm2.plist* - iTerm2. *WARNING:* for this to take effect, iTerm2, in its Preferences tab, must set a custom preferences location set.
