@@ -1,0 +1,37 @@
+{
+  "timestamps": {
+    "added": 1703350111,
+    "modified": 1703350933
+  },
+  "bundleIDs": [
+    "io.mende.alfredapp-audioswitcher"
+  ],
+  "name": "Audio Switcher",
+  "description": "Swiftly switch audio output and input devices",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/TobiasMende/alfred-audio-switcher/releases.atom",
+    "state": "W/\"f823af2d24447ce391b38ff3d9c5ad55\"|2023-12-23T14:23:27Z"
+  },
+  "links": {
+    "homepage": "https://github.com/TobiasMende/alfred-audio-switcher/",
+    "alfredForum": "https://www.alfredforum.com/topic/21244-audio-switcher-swiftly-switch-audio-output-and-input-devices/",
+    "bugReports": "https://github.com/TobiasMende/alfred-audio-switcher/issues/"
+  },
+  "download": {
+    "latest": {
+      "version": "1.1.1",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/060b6affd898f8966a2f9dfcff84778244ba889c/workflows/tobiasmende/audio-switcher.alfredworkflow",
+      "signature": "IImm0alkGGyH1cL5HgKaFj1gKWzkefNPUCDJSBtM9hG/40Lih7ACxhOorwM2u3j3qvNAWyhhamWxnHWisOSXqTLNzBfkamMhvUMS7oNiC8JnFxtqHg8lUH6qvcxalWaNxdE1tHt9JWxMHO8MxFiYm2oWTraBz3Si/E1CZCLNZB8BcjEYkIj4Yau4dQCLFnrCNznhtWgYVGZl/hafXfcKC/5gcwM4z5f1UIU9MhGjneMEVKRLoVgGTtbBOfl39AJJLKrS+YqaKSN7t9qSeyiNc/1E2SauB5D+NL/KzVLA6DNpikto2tN01aNgrGMO7NMB/4+gyH8MLosvEeKnYRHqBZJ6ozDp53re1BGo8o8tIeXcnQJQDYBXVaMluRyRIiddF1RsDiIHeKdClTNlv1L6B6Q3wPv39wfLx2jCj64FiyOhN1PulngAst1j/Pw7z1y7byIhBACbE22zbdWvo+YQ4YS0uLJR4ceXgZCBlcMHMcmevYCQGF+ENTpHaxvxY4kH7rpHDiPi08da3fB8T7BPiK3BpDsei0hEm449AIZumwHL96DJoRaBnLx+rKedXba6lirYK0+5XI6+q+7tz5QW244RQ3sSodTYWSRI6kjoRdn6sifswIMr94uDWsYRUMnvbfiP8b9o8wTm40rWyyeNVQIIkqcBwH/KKAMKKkdmBT0="
+    }
+  },
+  "tags": [
+    "audio",
+    "remote"
+  ],
+  "dependencies": {
+    "otherLanguages": [
+      "swift"
+    ]
+  }
+}

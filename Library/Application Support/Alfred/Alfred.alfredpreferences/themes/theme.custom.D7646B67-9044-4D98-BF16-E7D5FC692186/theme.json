@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 9,
+        "colorSelected" : "#FFFFFFCB",
+        "font" : "IBM Plex Sans",
+        "color" : "#FFFFFF7E"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "IBM Plex Sans",
+        "color" : "#FFFFFF7E"
+      },
+      "backgroundSelected" : "#358188FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "IBM Plex Sans",
+        "color" : "#FFFFFFCB"
+      },
+      "iconPaddingHorizontal" : 20,
+      "roundness" : 0,
+      "paddingVertical" : 17,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#358188FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 39,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "IBM Plex Sans",
+        "color" : "#FFFFFFFF"
+      },
+      "background" : "#00000000",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#000000C6",
+      "paddingHorizontal" : 48,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 3,
+      "paddingVertical" : 19
+    },
+    "credit" : "ay4",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#358188FF",
+      "thickness" : 10
+    },
+    "name" : "ayDark"
+  }
+}

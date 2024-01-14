@@ -1,6 +1,14 @@
 * My dotfiles
 
+** What's here
+
 - *bin* - my python and non-python scripts (right now empty-ish)
 - *.config*
   - *fish* - the fish shell
 - *com.googlecode.iterm2.plist* - iTerm2. *WARNING:* for this to take effect, iTerm2, in its Preferences tab, must set a custom preferences location set.
+- *Library/Application Support/Alfred* - Alfred 5
+
+** What's not here
+- emacs preferences is a [[https://github.com/ay4/ayemacs][separate repo]].
+- as is [[https://github.com/ay4/hammerspoon_config][hammerspoon]]
+- as are repos for my [[https://github.com/ay4/zmk_corne_wireless][wireless corne]], [[https://github.com/ay4/qmk_corne_lowprofile][holykeebs]] corne and the [[https://github.com/ay4/qmk_moonlander][moonlander]] (to add: alice)
