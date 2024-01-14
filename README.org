@@ -7,6 +7,7 @@
   - *fish* - the fish shell
 - *com.googlecode.iterm2.plist* - iTerm2. *WARNING:* for this to take effect, iTerm2, in its Preferences tab, must set a custom preferences location set.
 - *Library/Application Support/Alfred* - Alfred 5
+- *wallpapers* - self-explanatory. Here because OS needs it locally
 
 ** What's not here
 - emacs preferences is a [[https://github.com/ay4/ayemacs][separate repo]].
