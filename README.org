@@ -1,0 +1,5 @@
+* My dotfiles
+
+- *bin* - my python and non-python scripts (right now empty-ish)
+- *.config*
+  - *fish* - the fish shell
