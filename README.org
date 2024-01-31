@@ -1,5 +1,57 @@
 * My dotfiles
 
+** Apps that I use
+
+*** GUI
+- [[https://pypi.org/project/amphetype/][Amphetype]] - type training, pip
+- Android File Transfer
+- [[https://freemacsoft.net/appcleaner/][AppCleaner]]
+- [[https://etcher.balena.io][balenaEtcher]]
+- [[http://cyberduck.io/][CyberDuck]]
+- [[https://daisydiskapp.com][DaisyDisk]] (paid)
+- Deezer
+- EasyRes (Appstore)
+- [[https://github.com/d12frosted/homebrew-emacs-plus][EmacsPlus]] (homebrew)
+- Figma
+- [[https://www.hammerspoon.org][Hammerspoon]]
+  - +And now [[https://www.lightpillar.com/mosaic.html][Mosaic]] for window management because of the auto layout feature. Simplicity turned out to be good but not good enough. Plus I already paid for it in the past.+
+- Hidden Bar (~brew install hiddenbar~)
+- [[https://www.homerow.app][HomeRow]] (paid)
+- +[[https://iterm2.com][iTerm 2]]+
+- [[https://www.warp.dev/c][Warp]] (it's faster, and I switched to iTerm because Warp doesn't support xonsh, but I'm back to fish now)
+- [[https://folivora.ai/keyboardcleantool][Keyboard Cleaner]]
+- [[https://kotatogram.github.io][Kotatogram]]
+- [[https://www.soma-zone.com/LaunchControl/][LaunchControl]] (paid)
+- [[https://lmstudio.ai][LM Studio]] (AI)
+- [[https://www.nightbirdsevolve.com/meta/][Meta]] - to mark music
+- m5burner (for my m5 device)
+- Microsoft Suite
+- MindNode
+- Obsidian
+- pCloud
+- Pixelmator
+- QMK Toolbox (~brew install qmk-toolbox~)
+- Raspberry Pi Imager
+- Spark
+  - Apple Mail
+- Sublime Text
+- Telegram Lite
+- [[https://theunarchiver.com][The Unarchiver]]
+- Thonny
+- [[https://transmissionbt.com][Transmission]]
+- [[https://www.videolan.org/vlc/download-macosx.html][VLC]]
+- Wally (Now [[https://www.zsa.io/flash/][Keymapp]])
+- [[https://filmora.wondershare.net/filmora-video-editor.html?gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopROaLUlmvQKZMkkofk_CLfq1a_llv3bBGLatSqXpEbdC2iwdGy-exxoCTqwQAvD_BwE][Filmora]]
+- Xcode
+- Zoom
+
+*** CLI
+- fish shell
+- [[https://github.com/rupa/z][z]] to jump around (there is also a [[https://github.com/jethrokuan/z][fish version]])
+- [[https://github.com/sharkdp/bat][bat]] - drop-in replacement for cat
+
+
+
 ** What's here
 
 - *bin* - my python and non-python scripts (right now empty-ish)
